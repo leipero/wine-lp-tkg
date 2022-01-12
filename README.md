@@ -1,7 +1,7 @@
 # wine-lp-tkg
 Personal wine-tkg builds for Lutris. Nothing special about it, built without mfpat and pulse patchsets. Fshack version with AMD FSR community patch.
 
-# Install
+## Install
 Extract release to ~/.local/share/lutris/runners/wine/
 
 ## Build
