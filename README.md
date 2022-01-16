@@ -1,5 +1,5 @@
 # wine-lp-tkg
-Personal wine-tkg builds for Lutris. Nothing special about it, built without mfplat and pulse patchsets. Fshack version with AMD FSR community patch. FUTEX2 futex_waitv support enabled.
+Personal wine-tkg builds for Lutris. Nothing special about it, built without mfplat and pulse patchsets based on wine-staging. Fshack version with AMD FSR community patch. FUTEX2 futex_waitv support enabled.
 
 ## Install
 Extract release to ~/.local/share/lutris/runners/wine/
