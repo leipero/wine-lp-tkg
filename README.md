@@ -14,7 +14,7 @@ Copy and replace customization.cfg from here into cloned directory, answer N (or
 
 ## BUILDS
 - lutris-tkg-fshack
-- lutris-tkg-nofshack (useful for gallium nine and some funky games/apps)
+- lutris-tkg (useful for gallium nine and some funky games/apps)
 
 ## Sources
 https://github.com/Frogging-Family/wine-tkg-git
