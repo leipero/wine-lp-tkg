@@ -10,7 +10,7 @@ Use wine-tkg build system
 git clone https://github.com/Frogging-Family/wine-tkg-git.git
 ```
 
-Copy and replace customization.cfg from here into cloned directory, answer N (or press enter) for reverts questions, andswer Y for AMD FSR patch for fshack version to get those builds compiled. Or edit your customization.cfg accordingly.
+Copy and replace customization.cfg from here into cloned directory, answer Y for mfplat question, andswer Y for AMD FSR patch for fshack version to get those builds compiled. Or edit your customization.cfg accordingly.
 
 ## BUILDS
 - lutris-tkg-fshack
