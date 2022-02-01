@@ -5,7 +5,7 @@ Personal wine-tkg builds for Lutris. Nothing special about it, based on wine-sta
 Extract release to ~/.local/share/lutris/runners/wine/
 
 ## Build
-Use wine-tkg build system
+Use wine-tkg build system:
 ```
 git clone https://github.com/Frogging-Family/wine-tkg-git.git
 ```
