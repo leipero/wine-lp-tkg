@@ -10,7 +10,7 @@ Use wine-tkg build system:
 git clone https://github.com/Frogging-Family/wine-tkg-git.git
 ```
 
-Copy and replace customization.cfg from here into cloned directory, answer Y for mfplat question, answer Y for AMD FSR patch for fshack version to get those builds compiled. Or edit your customization.cfg accordingly.
+Copy and replace customization.cfg from here into cloned directory, answer Y to AMD FSR patch question for fshack version to get that build. Or edit your customization.cfg accordingly.
 
 To get exact builds copy pack.sh in the same directory where customization.cfg is copied and run build process with (resulting .tar.xz in $HOME directory):
 ```
