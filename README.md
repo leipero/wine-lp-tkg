@@ -7,7 +7,7 @@ Extract release to ~/.local/share/lutris/runners/wine/
 ## Build
 Using wine-tkg build system, just run the build script:
 ```
-git clone https://github.com/leipero/wine-lp-tkg.git && cd wine-lp-tkg
+git clone https://github.com/leipero/wine-lp-tkg.git && cd wine-lp-tkg && chmod +x build.sh
 ./build.sh
 ```
 
