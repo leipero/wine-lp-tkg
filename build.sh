@@ -20,6 +20,7 @@ function setenvfshack() {
 
 function setenvnofshack() {
   sed -i -e '/^_proton_fs_hack=/c\_proton_fs_hack="false"' ${CFG}
+  sed -i -e '/^_childwindow_fix=/c\_childwindow_fix="false"' ${CFG}
 }
 
 function pack() {
