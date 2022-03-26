@@ -41,8 +41,7 @@ function pack() {
   echo "Compressing lutris build..."
   tar cf - $winever/ | xz -z -T0 - > $winever.tar.xz
   sha512sum $winever.tar.xz > $winever.sha512sum
-  mv $winever.tar.xz ../../../../..
-  mv $winever.sha512sum ../../../../..
+  mv $winever.tar.xz $winever.sha512sum ../../../../..
 }
 
 read -rp 'Choose staging version (e.g. "7cfceb7" or "v6.0", leave empty for git): ' -e stgver
