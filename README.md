@@ -1,5 +1,5 @@
 # wine-lp-tkg
-Personal wine-tkg builds for Lutris. Based on wine-staging, disabled staging PA patchset, Fshack version with AMD FSR community patch.
+Personal wine-tkg builds for Lutris. Based on wine-staging, disabled staging PA patchset, Fshack version with AMD FSR community patch. Built on Arch Linux.
 
 ## Install
 Extract release to ~/.local/share/lutris/runners/wine/
