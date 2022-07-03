@@ -10,7 +10,7 @@ ADVCFG="wine-tkg-profiles/advanced-customization.cfg"
 
 sed -i -e '/^_EXTERNAL_INSTALL=/c\_EXTERNAL_INSTALL="true"' ${CFG}
 sed -i -e '/^_FS_bypass_compositor=/c\_FS_bypass_compositor="true"' ${CFG}
-sed -i -e '/^_win10_default=/c\_win10_default="true"' ${CFG}
+sed -i -e '/^_win10_default=/c\_win10_default="false"' ${CFG}
 sed -i -e '/^_staging_pulse_disable=/c\_staging_pulse_disable="true"' ${ADVCFG}
 
 function setenvfshack() {
